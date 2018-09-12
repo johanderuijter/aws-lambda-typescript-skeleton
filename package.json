@@ -1,0 +1,13 @@
+{
+  "name": "aws-lambda-typescript-skeleton",
+  "version": "0.0.1",
+  "description": "Skeleton project for a aws lambda function using typescript",
+  "main": "dist/index.js",
+  "author": "Johan de Ruijter <dev@johanderuijter.nl>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.9.4"
+  }
+}

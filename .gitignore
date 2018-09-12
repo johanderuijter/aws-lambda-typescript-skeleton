@@ -1,0 +1,6 @@
+# Vendor
+node_modules
+
+# Build
+dist
+
